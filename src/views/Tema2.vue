@@ -61,8 +61,7 @@
             td Ejecuta una operación específica en un ciclo automatizado: ojá, botón, presilla.
             td Operaciones repetitivas de alta precisión.
 
-    p.bg11.p-4.mb-4(data-aos="zoom-in-left") #[b Nota:] El Decreto 1072 de 2015 prohíbe expresamente que el empleador adopte medidas disciplinarias contra un trabajador por reportar de buena fe la existencia de un peligro o la ocurrencia de un incidente. El reporte oportuno es tanto un derecho del trabajador como una obligación institucional dentro del SG-SST.
-
+    p.bg11.p-4.mb-4(data-aos="zoom-in-left") #[b Nota:] rpm significa revoluciones por minuto. Es la unidad que mide la velocidad de rotación del motor de una máquina, indicando cuántas veces completa un ciclo de movimiento en un minuto.
     p Dentro de las máquinas industriales, los tipos más utilizados en la confección de prendas de vestir son los siguientes:
 
     .row.justify-content-center.align-items-center.mb-3(data-aos='fade-right')
@@ -92,7 +91,7 @@
             td Costuras decorativas, trabillas, presillas, vaqueros.
 
           tr
-            td #[b Fileteadora (overlock)]
+            td #[b Fileteadora (#[em #[em overlock]])]
             td Sobrehilado – Serie 500
             td Acabado de bordes, unión y fileteo simultáneo en tejido de punto.
 
@@ -298,7 +297,7 @@
 
           tr
             td #[b Acabado de bordes y unión en tejido de punto]
-            td Fileteadora (overlock).
+            td Fileteadora (#[em overlock]).
             td Camisetas, ropa deportiva, ropa interior.
 
           tr
@@ -428,12 +427,12 @@
               tr
                 td #[b Redonda fina]
                 td SUK
-                td Tejidos de punto finos: jersey, interlock. Penetra entre los hilos sin cortarlos.
+                td Tejidos de punto finos: jersey, #[em interlock]. Penetra entre los hilos sin cortarlos.
 
               tr
                 td #[b Redonda media]
                 td SES
-                td Tejidos de punto medianos: rib, neopreno.
+                td Tejidos de punto medianos: #[em rib], neopreno.
 
               tr
                 td #[b Redonda gruesa]
@@ -481,7 +480,7 @@
                 td 70
                 td 10
                 td 0,70 mm.
-                td Tejidos ligeros: batista, voile, tul.
+                td Tejidos ligeros: batista, #[em voile], tul.
 
               tr
                 td 80
@@ -493,19 +492,19 @@
                 td 90
                 td 14
                 td 0,90 mm.
-                td Tejidos de punto: jersey, interlock.
+                td Tejidos de punto: jersey, #[em interlock].
 
               tr
                 td 100
                 td 16
                 td 1,00 mm.
-                td Tejidos semipesados: gabardina, denim ligero.
+                td Tejidos semipesados: gabardina, #[em denim] ligero.
 
               tr
                 td 110
                 td 18
                 td 1,10 mm.
-                td Tejidos pesados: denim, lona.
+                td Tejidos pesados: #[em denim], lona.
 
               tr
                 td 120
@@ -552,10 +551,10 @@
                 td 135 x 5.
 
               tr
-                td #[b Fileteadora (overlock)]
+                td #[b Fileteadora (#[em overlock])]
                 td B27.
 
-    p.bg10.p-4(data-aos='fade-right') #[b Nota:] Las referencias numéricas son códigos de nomenclatura industrial. Cada código identifica de forma única un tipo de aguja según su combinación de características físicas: el diámetro del cabo, la longitud total, la forma de la ranura, el tipo de punta y la máquina para la que fue diseñada. Por ejemplo, 135 x 5 indica una familia de agujas de cabo grueso para máquinas planas industriales de alta velocidad, mientras que B27 corresponde a la familia estándar para fileteadoras overlock.
+    p.bg10.p-4(data-aos='fade-right') #[b Nota:] Las referencias numéricas son códigos de nomenclatura industrial. Cada código identifica de forma única un tipo de aguja según su combinación de características físicas: el diámetro del cabo, la longitud total, la forma de la ranura, el tipo de punta y la máquina para la que fue diseñada. Por ejemplo, 135 x 5 indica una familia de agujas de cabo grueso para máquinas planas industriales de alta velocidad, mientras que B27 corresponde a la familia estándar para fileteadoras #[em overlock].
 
     p La aguja debe reemplazarse cada ocho (8) horas de trabajo continuo o al iniciar una nueva referencia de producción, aunque no presente roturas visibles. Una punta desgastada genera perforaciones irregulares, saltos de puntada y deterioro progresivo del tejido.
 

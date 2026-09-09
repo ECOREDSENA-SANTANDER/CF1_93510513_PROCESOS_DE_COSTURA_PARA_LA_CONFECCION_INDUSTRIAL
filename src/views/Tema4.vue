@@ -130,7 +130,7 @@
           .col-lg-5.col-md-8
             .titulo-sexto.color-acento-contenido(data-aos='fade-right')
               h5 Figura 19.  
-              span Riesgo por postura estática o prolongada
+              span Riesgo por postura forzada
             figure
               img(src='@/assets/curso/temas/t4/fig19.png', alt='')
 
@@ -331,7 +331,7 @@
       .col-lg-10.col-10.col-md-8
         img(src='@/assets/curso/temas/t4/fig28.svg', alt='Conjunto de esquemas de personas que realizan diferentes movimientos de estiramiento del cuerpo, incluyendo brazos, espalda, cuello y piernas, en un entorno de trabajo con mesa, silla y elementos de oficina.')
 
-    p.bg07.p-4.mb-4 #[b Nota:] La evidencia disponible en el campo de la salud ocupacional indica de manera consistente que la práctica regular de pausas activas reduce el ausentismo por enfermedad laboral de origen musculoesquelético y contribuye al mantenimiento del rendimiento productivo durante toda la jornada.
+    p.bg07.p-4.mb-4 #[b Nota:] la evidencia disponible en el campo de la salud ocupacional indica de manera consistente que la práctica regular de pausas activas reduce el ausentismo por enfermedad laboral de origen musculoesquelético y contribuye al mantenimiento del rendimiento productivo durante toda la jornada.
 
     .row.justify-content-start.mb-4(data-aos="zoom-in-left")
       .col-sm-12.col-lg-7
@@ -404,7 +404,7 @@
       .col-lg-4.col-8.col-md-6
         img(src="@/assets/curso/temas/t4/img08.png")
 
-    p.bg09.p-4.mb-4(data-aos="zoom-in-left") #[b Nota:] El Decreto 1072 de 2015 prohíbe expresamente que el empleador adopte medidas disciplinarias contra un trabajador por reportar de buena fe la existencia de un peligro o la ocurrencia de un incidente. El reporte oportuno es tanto un derecho del trabajador como una obligación institucional dentro del SG-SST.
+    p.bg09.p-4.mb-4(data-aos="zoom-in-left") #[b Nota:] el Decreto 1072 de 2015 prohíbe expresamente que el empleador adopte medidas disciplinarias contra un trabajador por reportar de buena fe la existencia de un peligro o la ocurrencia de un incidente. El reporte oportuno es tanto un derecho del trabajador como una obligación institucional dentro del SG-SST.
 
 
 

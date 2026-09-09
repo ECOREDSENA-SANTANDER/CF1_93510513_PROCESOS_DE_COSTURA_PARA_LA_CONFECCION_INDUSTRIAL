@@ -99,7 +99,7 @@
 
             tr
               td #[b Prendas inferiores]
-              td Pantalones, faldas, shorts, bermudas.
+              td Pantalones, faldas, #[em shorts], bermudas.
               td Delanteros, posteriores, pretina, bolsillos, pasadores, entrepierna.
               td Cierre de tiros, unión de costados, montaje de pretina, elaboración de dobladillos.
 
@@ -201,7 +201,7 @@
               td #[b Hilos]
               td Elemento de unión empleado para formar puntadas y costuras.
               td Permiten unir, reforzar, decorar o terminar piezas textiles.
-              td Hilo poliéster, algodón, nylon, hilo de bordar.
+              td Hilo poliéster, algodón, #[em nylon], hilo de bordar.
 
             tr
               td #[b Fornituras y complementos]
@@ -320,7 +320,7 @@
             tr
               td #[b Sobrepuesto o de parche]
               td Se forma con una pieza adicional ubicada sobre la prenda.
-              td Bolsillo de camisa, bolsillo posterior de jean.
+              td Bolsillo de camisa, bolsillo posterior de #[em jean].
               td Dobladillo de boca, planchado técnico, pespunte perimetral y presillas.
 
             tr
@@ -936,7 +936,7 @@
                 p Forma y número de piezas: prendas con muchas piezas pequeñas tienden a generar más sobrantes.
                 p.mb-0 Ancho de la tela: a mayor ancho, más oportunidades de optimización.
                 p Diseño o estampado: telas con dibujos direccionados limitan la rotación de piezas.
-                p Técnicas de corte: el uso de software de corte o corte manual puede influir en el rendimiento.  
+                p Técnicas de corte: el uso de #[em software] de corte o corte manual puede influir en el rendimiento.  
               .col-lg-4.col-md-8
                 figure
                   img(src='@/assets/curso/temas/t1/img18.png', alt='')
