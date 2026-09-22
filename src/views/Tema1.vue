@@ -767,13 +767,12 @@
                 | Hilatura
               p.mb-0 Corresponde al proceso técnico mediante el cual los filamentos o fibras se transforman y organizan en hebras continuas, preparadas para la construcción de hilos y, posteriormente, de tejidos. Este procedimiento incide de manera directa en propiedades como la resistencia, la regularidad y el desempeño funcional del material en su uso final.
 
-      .bg08.p-4.mb-4(data-aos='fade-right')
-        .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-          h5 Figura 3. 
-          span Hilaturas
-        .row.justify-content-center.align-items-center.mb-5
-          .col-lg-5.mb-3.col-10.col-md-9
-            img(src='@/assets/curso/temas/t1/fig3.png', alt='Conjunto de ovillos de fibra textil natural organizados como materia prima para procesos de tejido y elaboración de productos artesanales')
+      .titulo-sexto.color-acento-contenido(data-aos='fade-right')
+        h5 Figura 3. 
+        span Hilaturas
+      .row.justify-content-center.align-items-center.mb-5
+        .col-lg-12.mb-3.col-10.col-md-9
+          img(src='@/assets/curso/temas/t1/fig3.png', alt='Conjunto de ovillos de fibra textil natural organizados como materia prima para procesos de tejido y elaboración de productos artesanales')
 
       .row.justify-content-start.mb-4(data-aos="zoom-in-left")
         .col-sm-12.col-lg-7
@@ -927,7 +926,7 @@
                     h5 Figura 5.
                     span  Ejemplo de aplicación
                 .col-lg-6.mb-3
-                  img(src='@/assets/curso/temas/t1/fig5.png', alt='Expresión matemática que define el aprovechamiento del material textil como la relación entre el área útil ocupada por los patrones y el área total del metro de tela, multiplicada por cien para obtener el porcentaje.')
+                  img(src='@/assets/curso/temas/t1/fig5.png', alt='Cálculo del aprovechamiento del material textil obtenido al dividir el área útil entre el área total del metro de tela y convertir el resultado a porcentaje, con un valor de setenta y seis punto sesenta y siete por ciento.')
                 figcaption.izqtext Fuente: SENA (2021)
 
             .row.justify-content-center

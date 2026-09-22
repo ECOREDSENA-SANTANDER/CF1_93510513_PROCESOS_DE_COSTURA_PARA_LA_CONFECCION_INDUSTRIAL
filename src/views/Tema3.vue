@@ -136,6 +136,8 @@
 
     p.bg04.p-4 En entornos de producción industrial, la ficha técnica es un documento oficial que forma parte del sistema de gestión documental de la empresa. Su elaboración, aprobación y archivo deben seguir los procedimientos establecidos por cada organización.
 
+    p Con el propósito de fortalecer la comprensión de la ficha técnica como documento fundamental en los procesos de confección industrial, se invita a consultar el siguiente video, en el cual se presentan su estructura, principales elementos y utilidad para orientar la fabricación de prendas de vestir.
+
     .row.justify-content-center.align-items-center(data-aos="fade-right").mb-4           
       .col-lg-12
         figure
@@ -143,13 +145,6 @@
             iframe(width="560" height="315" src="https://www.youtube.com/embed/5YOLIDHLiCw?si=bPLbdwVe4zfI85_e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
           figcaption Video. Introducción a la ficha tecnica
 
-    p Con el propósito de fortalecer la comprensión de la ficha técnica como documento fundamental en los procesos de confección industrial, se invita a consultar el siguiente video, en el cual se presentan su estructura, principales elementos y utilidad para orientar la fabricación de prendas de vestir.
-
-    .row.justify-content-start.mb-4(data-aos="zoom-in-left")
-      .col-sm-12.col-lg-7
-        .d-flex.align-items-center
-          img.w-card-icon2(src="@/assets/curso/temas/t3/boton.svg" alt="")
-          h4.bg03.py-2.w-card-text2.text-white Introducción a ficha técnica
 
 
 

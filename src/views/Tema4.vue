@@ -35,11 +35,14 @@
 
     .row.justify-content-center.cursor-pointer.mb-5(data-aos="zoom-in-left")
         .col-xl-4.col-md-7.col-11.mb-4.mb-xl-0
+          .titulo-sexto.color-acento-contenido(data-aos='fade-right')
+            h5 Figura 15. 
+            span Riesgo por ruido
           .crd_hover_txt(@mouseover="mostrarIndicador = false")
             .indicador--hover(v-if="mostrarIndicador")
             .crd_hover_txt--img
               figure
-                img(src="@/assets/curso/temas/t4/1.png", alt="")
+                img(src="@/assets/curso/temas/t4/1.png", alt="Persona con chaleco de seguridad y guantes de protección que apoya la mano en la frente durante una pausa en un entorno de trabajo con materiales de construcción.")
             .crd_hover_txt--body
               h4.mb-4.d-flex.align-items-center
                 span.icono-circulo.me-3
@@ -48,11 +51,14 @@
               p.mb-0 Las máquinas de coser industriales generan niveles sonoros que, ante exposición prolongada sin protección auditiva adecuada, producen deterioro auditivo de carácter progresivo e irreversible. La normativa colombiana establece un límite de 85 decibeles para exposición continua durante una jornada de ocho horas, tal como lo dispone la Resolución 8321 de 1983 del Ministerio de Salud.
         
         .col-xl-4.col-md-6.col-11.mb-4.mb-xl-0
+          .titulo-sexto.color-acento-contenido(data-aos='fade-right')
+            h5 Figura 16. 
+            span Riesgo por iluminación deficiente
           .crd_hover_txt(@mouseover="mostrarIndicador = false")
             .indicador--hover(v-if="mostrarIndicador")
             .crd_hover_txt--img
               figure
-                img(src="@/assets/curso/temas/t4/2.png", alt="")
+                img(src="@/assets/curso/temas/t4/2.png", alt="Persona con casco de protección, gafas de seguridad y chaleco reflectivo, elementos utilizados como equipo de protección personal en entornos de trabajo.")
             .crd_hover_txt--body
               h4.mb-4.d-flex.align-items-center
                 span.icono-circulo.me-3
@@ -61,11 +67,14 @@
               p.mb-0 La insuficiencia lumínica en el puesto de trabajo incrementa la probabilidad de errores en la costura, genera fatiga visual acumulada y aumenta el riesgo de accidentes. Cada puesto debe contar con iluminación localizada sobre el área de costura, complementaria a la iluminación general del espacio.
         
         .col-xl-4.col-md-6.col-11.mb-4.mb-xl-0
+          .titulo-sexto.color-acento-contenido(data-aos='fade-right')
+            h5 Figura 17. 
+            span Riesgo por temperatura
           .crd_hover_txt(@mouseover="mostrarIndicador = false")
             .indicador--hover(v-if="mostrarIndicador")
             .crd_hover_txt--img
               figure
-                img(src="@/assets/curso/temas/t4/3.png", alt="")
+                img(src="@/assets/curso/temas/t4/3.png", alt="Persona con casco de protección, chaleco de seguridad y lámpara portátil de inspección mientras revisa una estructura en un entorno de trabajo.")
             .crd_hover_txt--body
               h4.mb-4.d-flex.align-items-center
                 span.icono-circulo.me-3

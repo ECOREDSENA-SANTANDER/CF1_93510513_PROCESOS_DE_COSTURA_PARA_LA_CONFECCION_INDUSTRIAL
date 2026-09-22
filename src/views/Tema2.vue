@@ -409,13 +409,14 @@
           h3.bg03.py-2.w-card-text Agujas por tipo de punta
 
 
-    .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-      h5 Tabla 18.
-      span Tipos de aguja según punta
+    
     .row.justify-content-center.align-items-center.mb-2
       .col-lg-4.mb-3.col-8.col-md-9
         img(src="@/assets/curso/temas/t2/img06.png")
       .col-lg-8
+        .titulo-sexto.color-acento-contenido(data-aos='fade-right')
+          h5 Tabla 18.
+          span Tipos de aguja según punta
         .tabla-a.color-acento-botones(data-aos="zoom-in-left").mb-4
           table
             thead
