@@ -282,7 +282,7 @@
         .col-lg-12
           figure
             .video
-              iframe(width="560" height="315" src="https://www.youtube.com/embed/FHhqkd0h4Kw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+              iframe(width="560" height="315" src="https://www.youtube.com/embed/tw4Sc7Kr7ZI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
             figcaption Video. Reconocimiento de las partes de las prendas
 
       p Para fortalecer los conocimientos sobre las partes que conforman una prenda de vestir, se invita a consultar el siguiente video, en el cual se presentan sus principales componentes y su función dentro del proceso de confección industrial.
@@ -625,7 +625,7 @@
         .col-lg-12
           figure
             .video
-              iframe(width="560" height="315" src="https://www.youtube.com/embed/YXT2HTjiB3Q?si=eXlMpDLNkA7b6Uxf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+              iframe(width="560" height="315" src="https://www.youtube.com/embed/VsTacEciP3k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
             figcaption Video. Gamas de mercado universos de vestuarios - ocasiones de uso 
 
       p Con el propósito de fortalecer la comprensión de las gamas de mercado, los universos del vestuario y las ocasiones de uso, se invita a consultar el siguiente video, en el cual se presentan los criterios que orientan la clasificación de las prendas de vestir según su finalidad, contexto y segmento de mercado.
@@ -844,7 +844,7 @@
         .col-lg-12
           figure
             .video
-              iframe(width="560" height="315" src="https://www.youtube.com/embed/mc1kARHDHrs?si=ay0vUsZjkTPJb96F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+              iframe(width="560" height="315" src="https://www.youtube.com/embed/zo3kyx8rXak" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
             figcaption Video. Sesión 6 - caracterización de los textiles
 
       p Para complementar los contenidos desarrollados en esta unidad, se invita a visualizar el siguiente video sobre la caracterización de los textiles, con el fin de reconocer sus propiedades y comprender su importancia en la selección de materiales para la confección de prendas de vestir.

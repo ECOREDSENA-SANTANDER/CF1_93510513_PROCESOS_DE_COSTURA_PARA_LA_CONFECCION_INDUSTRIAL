@@ -142,7 +142,7 @@
       .col-lg-12
         figure
           .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/5YOLIDHLiCw?si=bPLbdwVe4zfI85_e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/Z_27vgSfo1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
           figcaption Video. Introducción a la ficha tecnica
 
 
