@@ -555,7 +555,7 @@
                 td #[b Fileteadora (#[em overlock])]
                 td B27.
 
-    p.bg10.p-4(data-aos='fade-right') #[b Nota:] Las referencias numéricas son códigos de nomenclatura industrial. Cada código identifica de forma única un tipo de aguja según su combinación de características físicas: el diámetro del cabo, la longitud total, la forma de la ranura, el tipo de punta y la máquina para la que fue diseñada. Por ejemplo, 135 x 5 indica una familia de agujas de cabo grueso para máquinas planas industriales de alta velocidad, mientras que B27 corresponde a la familia estándar para fileteadoras #[em overlock].
+    p.bg10.p-4(data-aos='fade-right') #[b Nota:] las referencias numéricas son códigos de nomenclatura industrial. Cada código identifica de forma única un tipo de aguja según su combinación de características físicas: el diámetro del cabo, la longitud total, la forma de la ranura, el tipo de punta y la máquina para la que fue diseñada. Por ejemplo, 135 x 5 indica una familia de agujas de cabo grueso para máquinas planas industriales de alta velocidad, mientras que B27 corresponde a la familia estándar para fileteadoras #[em overlock].
 
     p La aguja debe reemplazarse cada ocho (8) horas de trabajo continuo o al iniciar una nueva referencia de producción, aunque no presente roturas visibles. Una punta desgastada genera perforaciones irregulares, saltos de puntada y deterioro progresivo del tejido.
 
